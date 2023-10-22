@@ -1,7 +1,9 @@
 # My Drive README
 This is the main README file for the My Drive project.
 
-As of today, 22:03 04/03/2016, the version of the repository contains the following structure:
+The goal of this project was to develop a structure similar to a Google Drive app in a smaller scale.
+
+This repository contains the following structure:
 
     .
     |__ info
